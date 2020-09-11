@@ -5,6 +5,3 @@ VALUES
 
 SELECT * FROM treasures
 WHERE user_id = $2;
-
-
-... this is a test
